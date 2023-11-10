@@ -2,7 +2,8 @@
 Ion Zarija, José Villalba, Omar Vargas
 06/11/2023
 ASIXc M03 UF1 A3 PR3
-isBigger.py
+isACorrectDate.py
+Programa que comprovi si una data és correcte. El programa ha de demanar una data, dia, mes i any (en el format DD/MM/AAAA).
 """
 try:
     date = input().split('/')

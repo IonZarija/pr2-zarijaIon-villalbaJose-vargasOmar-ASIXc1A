@@ -3,6 +3,7 @@ Ion Zarija, José Villalba, Omar Vargas
 06/11/2023
 ASIXc M03 UF1 A3 PR3
 isBigger.py
+Programa que demana dos números si el primer és més gran o igual que el segon els intercanvia.
 """
 num1 = int(input("Numero 1?: "))
 num2 = int(input("Numero 2?: "))

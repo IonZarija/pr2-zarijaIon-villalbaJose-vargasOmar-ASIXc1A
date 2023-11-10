@@ -3,6 +3,7 @@ Ion Zarija, José Villalba, Omar Vargas
 06/11/2023
 ASIXc M03 UF1 A3 PR3
 areGrowingNumbers.py
+Programa que detecta si tres números demanats han estat introduïts en ordre creixent.
 """
 num1 = int(input("Numero 1?: "))
 num2 = int(input("Numero 2?: "))
